@@ -1,16 +1,18 @@
 <div id="user-content-toc">
-  <div align="center">
-    <summary><h1 style="display: inline-block">Hi 👋 I'm Can Korkmaz</h1></summary>
-  </div>
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi <picture><img alt="Hi Emoji" src="hi.gif" width="32px" /></picture><br/> I'm Can Korkmaz</h1></summary>
+  </ul>
 </div>
 
 <!-- About -->
 I am a self taught Full Stack Developer
 
-I specialize in developing projects using current technologies such as **NodeJS**, Astro, Adonis, and Svelte, Vue.
+I specialize in developing projects using current technologies such as **NodeJS**, Astro, Adonis, Svelte, Vue.
 
 My focus is primarily on backend development and I have a keen interest in areas like VMware virtualization and
 cybersecurity.
+
+I am passionate about learning .NET, all Back-End Technologies, Web 3, Blockchain, Linux, Virtualization, Cloud Computing, and DevOps.
 In addition to my technical skills, I also **create content** by riding motorcycles and recording videos.
 
 <p>
