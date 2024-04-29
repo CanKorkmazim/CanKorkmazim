@@ -44,6 +44,7 @@ In addition to my technical skills, I also **create content** by riding motorcyc
     <picture><img alt="OVH Badge" src="https://img.shields.io/badge/-OVH-123F6D?logo=ovh&logoColor=fff"/></picture>
     <picture><img alt="Mikrotik Badge" src="https://img.shields.io/badge/-Mikrotik FW-293239?logo=mikrotik&logoColor=fff"/></picture>
     <picture><img alt="VMware Badge" src="https://img.shields.io/badge/-VMware-607078?logo=icloud&logoColor=fff"/></picture>
+    <picture><img alt="Cloudflare Badge" src="https://img.shields.io/badge/-Cloudflare-F38020?logo=cloudflare&logoColor=fff"/></picture>
 </p>
 
 ### Programming Languages:
