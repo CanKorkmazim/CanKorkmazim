@@ -1,7 +1,7 @@
 <div id="user-content-toc">
-  <div align="center">
+  <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋 I'm Can Korkmaz</h1></summary>
-  </div>
+  </ul>
 </div>
 
 <!-- About -->
