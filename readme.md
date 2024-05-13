@@ -23,15 +23,19 @@ In addition to my technical skills, I also **create content** by riding motorcyc
 
 ## 🛠️ My Skills
 
+### Learning:
+<p>
+    <picture><img alt="React Badge" src="badges/react.png"/></picture>
+    <picture><img alt="Next Badge" src="badges/nextjs.png"/></picture>
+    <picture><img alt="Nuxt Badge" src="badges/nuxt.png"/></picture>
+    <picture><img alt="Vue" src="badges/vue.png"/></picture>
+</p>
+
 ### General Tech. Stacks:
 <p>
     <picture><img alt="Astro Badge" src="badges/astro.png"/></picture>
     <picture><img alt="Adonis Badge" src="badges/adonis.png"/></picture>
     <picture><img alt="Svelte Badge" src="badges/svelte.png"/></picture>
-    <picture><img alt="Vue" src="badges/vue.png"/></picture>
-    <picture><img alt="Nuxt Badge" src="badges/nuxt.png"/></picture>
-    <picture><img alt="React Badge" src="badges/react.png"/></picture>
-    <picture><img alt="Next Badge" src="badges/nextjs.png"/></picture>
     <picture><img alt="Laravel Badge" src="badges/laravel.png"/></picture>
     <picture><img alt="Socket.io Badge" src="badges/socketio.png"/></picture>
     <picture><img alt="HTML5 Badge" src="badges/html5.png"/></picture>
